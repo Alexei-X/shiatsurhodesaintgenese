@@ -4,4 +4,163 @@
 }
 body{
 	background: url(img/fond.jpg) no-repeat center fixed;
+	background-size: cover;
+}
+a{
+	color: rgb(64, 64, 64);
+	text-decoration: none;
+}
+ul{
+	list-style: none;
+}
+.header{
+	height: 170px;
+	width: 100%;
+	background-color: rgb(255, 51, 51);
+	padding-top: 50px;
+}
+.header-photo{
+	position: absolute;
+	margin-top: -50px;
+}
+.header-photo-portrait{
+	border-top-right-radius: 5%;
+	border-bottom-right-radius: 5%;
+	height: 220px;
+	width: auto;
+}
+.header-title{
+	text-align: center;
+	font-family: Zen Loop;
+	letter-spacing: 10px;
+	color: rgb(64, 64, 64);
+}
+.header-title-main{
+	font-size: 80px;
+}
+.header-title-under{
+	font-size: 30px;
+}
+.header-nav{
+	margin-top: -150px;
+	margin-right: 20px;
+	text-align: right;
+	font-size: 35px;
+	color: rgb(64, 64, 64);
+	font-family: Prompt;
+}
+
+.header-link{
+	color: rgb(64, 64, 64);
+	text-align: right;
+	margin-right: 10px;
+	margin-top: 65px;
+	font-size: 20px;
+	font-family: Prompt;
+}
+.presentation{
+	height: 300px;
+	width: 950px;
+	background-color: rgba(255, 255, 255, 0.9);
+	margin-left: 80px;
+	margin-top: 30px;
+	padding: 20px;
+	border-radius: 5%;
+}
+.presentation-text{
+	color: rgb(64, 64, 64);
+	text-align: justify;
+	font-size: 20px;
+	font-family: Prompt;
+}
+.services{
+	height: 300px;
+	width: 850px;
+	background-color: rgba(255, 255, 255, 0.9);
+	margin-top: 30px;
+	margin-left: 300px;
+	padding: 20px;
+	border-radius: 5%;
+}
+.services-text{
+	color: rgb(64, 64, 64);
+	text-align: justify;
+	font-size: 20px;
+	font-family: Prompt;
+}
+.prices{
+	height: 200px;
+	width: 500px;
+	background-color: rgba(255, 255, 255, 0.9);
+	margin-top: 30px;
+	margin-left: 100px;
+	border-radius: 5%;
+	padding: 20px;
+}
+.prices-title{
+	font-size: 50px;
+	color: rgb(64, 64, 64);
+	letter-spacing: 5px;
+	text-align: center;
+	font-family: Zen Loop;
+}
+.prices-text{
+	font-size: 25px;
+	text-align: center;
+	color: rgb(64, 64, 64);
+	font-family: Prompt;
+}
+.contact{
+	height: 150px;
+	width: 100%;
+	background-color: rgb(255, 51, 51);
+	margin-top: 40px;
+}
+.contact-title{
+	text-align: center;
+	font-family: Zen Loop;
+	color: rgb(64, 64, 64);
+	font-size: 40px;
+	letter-spacing: 10px;
+}
+.contact-text{
+	font-size: 25px;
+	text-align: center;
+	color: rgb(64, 64, 64);
+	font-family: Prompt;
+}
+.contact-text-links{
+	display: inline;
+}
+@media (max-width: 1200px){
+	.header-photo-portrait{
+		height: 100px;
+		width: auto;
+		margin-top: 60px;
+	}
+	.presentation, .services{
+		width: 96%;
+		margin-left: 0px;
+	}
+	.presentation{
+		height: 900px;
+		margin-top: 150px;
+	}
+	.presentation-text{
+		font-size: 32px;
+	}
+	.services{
+		height: 750px;
+		margin-top: 150px;
+	}
+	.services-text{
+		font-size: 32px;
+	}
+	.prices{
+		margin-left: 25%;
+		height: 300px;
+	}
+	.prices-text{
+		font-size: 35px;
+	}
 }
