@@ -31,7 +31,7 @@ ul{
 }
 .header-title{
 	text-align: center;
-	font-family: Zen Loop;
+	font-family: Zen Loop, Garamond;
 	letter-spacing: 10px;
 	color: rgb(64, 64, 64);
 }
@@ -102,7 +102,7 @@ ul{
 	color: rgb(64, 64, 64);
 	letter-spacing: 5px;
 	text-align: center;
-	font-family: Zen Loop;
+	font-family: Zen Loop, Garamond;
 }
 .prices-text{
 	font-size: 25px;
