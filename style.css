@@ -141,6 +141,9 @@ ul{
 	.header-title{
 		font-family: "Bradley Hand", cursive;	
 	}
+	.header-title-main{
+		font-size: 60px;
+	}
 	.presentation, .services{
 		width: 96%;
 		margin-left: 0px;
