@@ -138,6 +138,9 @@ ul{
 		width: auto;
 		margin-top: 60px;
 	}
+	.header-title{
+		font-family: Zen Loop, Garamond;	
+	}
 	.presentation, .services{
 		width: 96%;
 		margin-left: 0px;
@@ -155,6 +158,9 @@ ul{
 	}
 	.services-text{
 		font-size: 40px;
+	}
+	.prices-title{
+		font-family: Zen Loop, Garamond;
 	}
 	.prices{
 		margin-left: 25%;
