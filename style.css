@@ -71,7 +71,7 @@ ul{
 	color: rgb(64, 64, 64);
 	text-align: justify;
 	font-size: 20px;
-	font-family: Garamond;
+	font-family: Prompt;
 }
 .services{
 	height: 300px;
@@ -86,7 +86,7 @@ ul{
 	color: rgb(64, 64, 64);
 	text-align: justify;
 	font-size: 20px;
-	font-family: Garamond;
+	font-family: Prompt;
 }
 
 .shiatsu-place-image{
@@ -134,6 +134,7 @@ ul{
 	}
 	.presentation-text{
 		font-size: 52px;
+		font-family: Garamond;
 	}
 	.services{
 		height: 1850px;
@@ -141,5 +142,6 @@ ul{
 	}
 	.services-text{
 		font-size: 52px;
+		font-family: Garamond;
 	}
 }
