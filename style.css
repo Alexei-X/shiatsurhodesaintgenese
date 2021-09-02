@@ -88,28 +88,14 @@ ul{
 	font-size: 20px;
 	font-family: Prompt;
 }
-.prices{
-	height: 200px;
-	width: 500px;
-	background-color: rgba(255, 255, 255, 0.9);
-	margin-top: 30px;
-	margin-left: 100px;
-	border-radius: 5%;
-	padding: 20px;
+
+.shiatsu-place-image{
+	height: 250px;
+	width: auto;
+	margin-left: 200px;
+	margin-top: 50px;
 }
-.prices-title{
-	font-size: 50px;
-	color: rgb(64, 64, 64);
-	letter-spacing: 5px;
-	text-align: center;
-	font-family: Zen Loop, Garamond;
-}
-.prices-text{
-	font-size: 25px;
-	text-align: center;
-	color: rgb(64, 64, 64);
-	font-family: Prompt;
-}
+
 .contact{
 	height: 150px;
 	width: 100%;
@@ -138,41 +124,22 @@ ul{
 		width: auto;
 		margin-top: 60px;
 	}
-	.header-title{
-		font-family: "Bradley Hand", cursive;	
-	}
-	.header-title-main{
-		font-size: 50px;
-	}
 	.presentation, .services{
 		width: 96%;
 		margin-left: 0px;
 	}
 	.presentation{
-		height: 900px;
+		height: 1100px;
 		margin-top: 150px;
 	}
 	.presentation-text{
-		font-size: 40px;
+		font-size: 62px;
 	}
 	.services{
-		height: 750px;
+		height: 950px;
 		margin-top: 150px;
 	}
 	.services-text{
-		font-size: 40px;
-	}
-	.prices-title{
-		font-family: "Bradley Hand", cursive;
-	}
-	.prices{
-		margin-left: 25%;
-		height: 300px;
-	}
-	.prices-text{
-		font-size: 42px;
-	}
-	.contact-title{
-		font-family: "Bradley Hand", cursive;	
+		font-size: 62px;
 	}
 }
