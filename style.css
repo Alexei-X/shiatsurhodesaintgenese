@@ -129,17 +129,17 @@ ul{
 		margin-left: 0px;
 	}
 	.presentation{
-		height: 1100px;
+		height: 2200px;
 		margin-top: 150px;
 	}
 	.presentation-text{
-		font-size: 62px;
+		font-size: 52px;
 	}
 	.services{
-		height: 950px;
+		height: 1850px;
 		margin-top: 150px;
 	}
 	.services-text{
-		font-size: 62px;
+		font-size: 52px;
 	}
 }
