@@ -36,7 +36,7 @@ ul{
 	color: rgb(64, 64, 64);
 }
 .header-title-main{
-	font-size: 75px;
+	font-size: 80px;
 }
 .header-title-under{
 	font-size: 30px;
@@ -133,13 +133,13 @@ ul{
 		margin-top: 150px;
 	}
 	.presentation-text{
-		font-size: 62px;
+		font-size: 52px;
 	}
 	.services{
 		height: 1850px;
 		margin-top: 150px;
 	}
 	.services-text{
-		font-size: 62px;
+		font-size: 52px;
 	}
 }
