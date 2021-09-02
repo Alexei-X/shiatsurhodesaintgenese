@@ -135,6 +135,8 @@ ul{
 	.presentation-text{
 		font-size: 52px;
 		font-family: Garamond;
+		font-style: normal;
+		font-weight:0;
 	}
 	.services{
 		height: 1850px;
@@ -143,5 +145,7 @@ ul{
 	.services-text{
 		font-size: 52px;
 		font-family: Garamond;
+		font-style: normal;
+		font-weight:0;
 	}
 }
