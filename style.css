@@ -124,6 +124,9 @@ ul{
 		width: auto;
 		margin-top: 60px;
 	}
+	.header-title-main{
+		font-size: 75px;
+	}
 	.presentation, .services{
 		width: 96%;
 		margin-left: 0px;
